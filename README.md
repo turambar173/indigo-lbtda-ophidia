@@ -114,5 +114,5 @@ use also to other astronomical analysis tasks, further development of the code i
 To this end it is important to us if you could express your degree of satisfaction with this
 tutorial and we would also like to know your opinion on a possible future extension of the
 Ophidia capabilities to the astronomical field. Would it be valuable for your research? The
-survey you are asked to fill in can be found following this link.
+survey you are asked to fill in can be found following this [link](https://form.jotformeu.com/72554203448354).
 Thank you for your cooperation.
