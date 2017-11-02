@@ -142,7 +142,7 @@ Now we are going to explore the Jupyter environment to perform astronomical imag
 We have prepared a Jupyter Notebook that will guide towards this goal, using PyOphidia applied to standard astronomical
 image calibration routines.
 
-1. Log in to OphidiaLab
+1. Log in to [OphidiaLab](https://ophidialab.cmcc.it/jupyter/hub/login)
 2. Click on the Upload button on the top-right part of your home page and search for the file `fits_reduction_script.ipynb`,
     which is contained inside this git repository.
 3. Click on the blue Upload button that it appears in your home;
